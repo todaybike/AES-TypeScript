@@ -3,8 +3,8 @@
 자바스크립트로 되어 있던 AES 암호화 함수를 타입스크립트로 변형하였습니다.
 아래 사이트의 자바스크립트를 기반으로 작성하였습니다.
 
-https://goni9071.tistory.com/entry/aes256-cbc-javascript-and-java
-https://raw.githubusercontent.com/ricmoo/aes-js/e27b99df/index.js
+<li>https://goni9071.tistory.com/entry/aes256-cbc-javascript-and-java</li>
+<li>https://raw.githubusercontent.com/ricmoo/aes-js/e27b99df/index.js</li>
 
 <pre>
 TypeScript(javascript), Java (tomcat 등) 에서 암복호화하기 위하여 개발했습니다.
