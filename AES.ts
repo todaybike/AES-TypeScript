@@ -79,10 +79,7 @@ class ArrayUtil {
             }
         }
 
-        // targetArray.set(sourceArray, targetStart);
-        for ( let i=0; i<sourceArray.length; i++ ) {
-            targetArray[i] = sourceArray[i];
-        }
+        targetArray.set(sourceArray, targetStart);
     }
 
         
